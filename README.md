@@ -21,7 +21,7 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-# Personal Receipt Scanner
+# Personal Finance Receipt Scanner
 
 A NestJS-based personal finance application with receipt scanning functionality powered by OpenRouter's AI models.
 
