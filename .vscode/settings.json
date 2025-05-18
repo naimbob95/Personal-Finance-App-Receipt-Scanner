@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.validate": [
+        "javascript",
+        "typescript"
+    ],
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.printWidth": 100,
+    "typescript.preferences.importModuleSpecifier": "relative"
+}
