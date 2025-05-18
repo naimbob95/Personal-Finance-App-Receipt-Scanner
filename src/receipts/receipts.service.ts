@@ -96,7 +96,7 @@ export class ReceiptsService {
                 {
                   type: 'text',
                   text: `Extract the following information from this receipt image: vendor name, transaction date, total amount, and individual items with their prices. Format the output as JSON with the keys: vendorName, transactionDate, totalAmount, items (where items is an array of objects with name, quantity, and price). IMPORTANT: Ensure your JSON is valid and follows the exact format specified.
-                  this is the example json ${JSON.stringify(exampleJson)}
+                  this is the example json ${JSON.stringify(exampleJson)} and make sure just return the json and nothing else
                   `,
                 },
                 {
